@@ -7,10 +7,24 @@ import projImg1_3 from "../assets/img/ProjImg1-2.png";
 import projImg2 from "../assets/img/ProjImg2-1.png";
 import projImg2_2 from "../assets/img/ProjImg2-2.png";
 
+import projImg3 from "../assets/img/threads1.png";
+import projImg3_2 from "../assets/img/threads2.png";
+import projImg3_3 from "../assets/img/threads3.png";
+import projImg3_4 from "../assets/img/threads4.png";
+
+import navIcon2 from "../assets/img/icons8-github (1).svg";
+
 import "animate.css";
 
 export const Projects = () => {
   const projects = [
+    {
+      title: "Social Media Website",
+      description: `A social media platform, where users can post images, videos, and text, edit their profiles, send messages, like and reply to posts, and browse other users content. \n Reactjs, nodejs, expressjs, MongoDB  `,
+      link: `https://github.com/AdityaLohar/ArIES-open-project`,
+      // imgUrl: projImg1,
+      images: [projImg3, projImg3_2, projImg3_3, projImg3_4],
+    },
     {
       title: "Dappazon",
       description: `Blockchain marketplace for direct, secure buying and selling with crypto payments.`,

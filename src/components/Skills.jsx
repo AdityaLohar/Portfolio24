@@ -1,6 +1,7 @@
 import { Container, Row, Col } from "react-bootstrap";
 import colorSharp from "../assets/img/color-sharp.png";
 
+
 export const Skills = () => {
   return (
     <section className="skill" id="skills">
@@ -11,20 +12,24 @@ export const Skills = () => {
               <h2>Skills</h2>
               <ul className="skill-list">
                 <li>
-                  <h5>Blockchain Technologies</h5>
-                  <p>Solid understanding of blockchain fundamentals, smart contract development with Solidity, blockchain interaction using Ether.js, and decentralized application (DApp) architecture.</p>
+                  <h5>Frontend</h5>
+                  <p>Javascript , React Js , Recoil(basic) , Typescript </p>
                 </li>
                 <li>
-                  <h5>Smart Contract Testing & Deployment</h5>
-                  <p>Knowledge of smart contract testing with Hardhat, including unit and integration tests, to ensure contract integrity before deployment.</p>
-                </li>
+                  <h5>Backend</h5>
+                  <p>Node.js , Express.js</p>
+                 </li>
                 <li>
-                  <h5>Web3 Development</h5>
-                  <p>Development of Web3 applications using React.js, integrating smart contracts, and connecting blockchain with front-end applications.</p>
+                  <h5>Database</h5>
+                  <p>MongoDb , PostgreSQL </p>  
                 </li>
                 <li>
                   <h5>Competitive Programming</h5>
-                  <p>Algorithmic problem-solving <br /> Codeforces: 1456 (Specialist) <br />Handle: Lohaaar</p>
+                  <p>Codeforces: 1456 (Specialist) <br />Handle: Lohaaar</p>
+                </li>
+                <li>
+                  <h5>Blockchain Technologies</h5>
+                  <p>Blockchain Fundamentals <br /> Smart Contract Development (Solidity) <br />Blockchain Interaction (Ether.js) <br /> Smart Contract Testing & Deployment (Hardhat)</p>
                 </li>
               </ul>
             </div>
