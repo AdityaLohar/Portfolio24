@@ -20,7 +20,7 @@ export const Projects = () => {
   const projects = [
     {
       title: "Social Media Website",
-      description: `A social media platform, where users can post images, videos, and text, edit their profiles, send messages, like and reply to posts, and browse other users content. \n Reactjs, nodejs, expressjs, MongoDB  `,
+      description: `A social media platform, where users can post images, videos, and text, edit their profiles, send messages, like and reply to posts, and browse other users content. Reactjs, nodejs, expressjs, MongoDB.  `,
       link: `https://github.com/AdityaLohar/ArIES-open-project`,
       // imgUrl: projImg1,
       images: [projImg3, projImg3_2, projImg3_3, projImg3_4],
@@ -33,7 +33,7 @@ export const Projects = () => {
     },
     {
       title: "TokenMaster",
-      description: `Similar to BookMyShow but a decentralized version along with tokens. \n Reactjs, nodejs, expressjs, MongoDB  `,
+      description: `Similar to BookMyShow but a decentralized version along with tokens. \n Reactjs, nodejs, expressjs, MongoDB.`,
       link: `https://github.com/AdityaLohar/tokenmaster-1`,
       // imgUrl: projImg1,
       images: [projImg2, projImg2_2],

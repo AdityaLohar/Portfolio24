@@ -363,9 +363,14 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
     /* Adjust the width as needed for smaller screens */
     height: auto;
   }
-
   .banner h1 {
-    font-size: 40px;
+    font-size: 45px;
+  }
+}
+
+@media (max-width: 425px) {
+  .banner h1 {
+    font-size: 30px;
   }
 }
 
@@ -417,7 +422,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 
 .skill-list p {
   font-size: 18px;
-  padding: 0 15px 0 15px;
+  padding: 0 1px 0 1px;
   color: #B8B8B8;
   letter-spacing: 0.8px;
   /* line-height: 1em; */
@@ -484,7 +489,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   line-height: 1.5em;
   margin: 14px auto 30px auto;
   text-align: center;
-  width: 56%;
+  width: 95%;
 }
 
 .project .nav.nav-pills {
@@ -721,7 +726,6 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   margin: 0;
   position: relative;
   text-align: center;
-  /* Center the content */
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -739,9 +743,9 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   font-size: 20px !important;
   letter-spacing: 0.8px;
   line-height: 1.5em;
-  margin: 14px auto 30px auto;
+  margin: 1px auto 1px auto;
   text-align: center;
-  width: 56%;
+  width: 100%;
   color: #fff;
 }
 
