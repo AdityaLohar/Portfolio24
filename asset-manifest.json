@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/Portfolio24/static/css/main.b47f5d47.css",
-    "main.js": "/Portfolio24/static/js/main.d20e3e06.js",
+    "main.js": "/Portfolio24/static/js/main.a2042f70.js",
     "static/js/787.7da95b79.chunk.js": "/Portfolio24/static/js/787.7da95b79.chunk.js",
     "static/media/color-sharp.png": "/Portfolio24/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/Portfolio24/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/threads2.png": "/Portfolio24/static/media/threads2.712053002aa7bc8f8ba7.png",
     "static/media/ProjImg1-0.png": "/Portfolio24/static/media/ProjImg1-0.75d083795076fa1ad9ba.png",
     "static/media/ProjImg2-1.png": "/Portfolio24/static/media/ProjImg2-1.b15afa98bce4755fc517.png",
     "static/media/ProjImg2-2.png": "/Portfolio24/static/media/ProjImg2-2.e04e33b1fd64955fa93d.png",
@@ -12,10 +13,13 @@
     "static/media/ProjImg1-1.png": "/Portfolio24/static/media/ProjImg1-1.6392c630cc6ab9cb0045.png",
     "static/media/faceimage-2.jpg": "/Portfolio24/static/media/faceimage-2.70d64d54c630282c7e67.jpg",
     "static/media/banner-bg.png": "/Portfolio24/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/threads1.png": "/Portfolio24/static/media/threads1.37170ab0da6853ec38ad.png",
     "static/media/CentraNo2-Bold.ttf": "/Portfolio24/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/Portfolio24/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/Portfolio24/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
     "static/media/footer-bg.png": "/Portfolio24/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/threads4.png": "/Portfolio24/static/media/threads4.293277cca725506d05ca.png",
+    "static/media/threads3.png": "/Portfolio24/static/media/threads3.db0fc6a0fa4c05dfa019.png",
     "static/media/slick.svg": "/Portfolio24/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/Portfolio24/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/Portfolio24/static/media/slick.c94f7671dcc99dce43e2.ttf",
@@ -25,11 +29,11 @@
     "index.html": "/Portfolio24/index.html",
     "static/media/nav-icon1.svg": "/Portfolio24/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "main.b47f5d47.css.map": "/Portfolio24/static/css/main.b47f5d47.css.map",
-    "main.d20e3e06.js.map": "/Portfolio24/static/js/main.d20e3e06.js.map",
+    "main.a2042f70.js.map": "/Portfolio24/static/js/main.a2042f70.js.map",
     "787.7da95b79.chunk.js.map": "/Portfolio24/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b47f5d47.css",
-    "static/js/main.d20e3e06.js"
+    "static/js/main.a2042f70.js"
   ]
 }
