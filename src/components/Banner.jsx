@@ -46,10 +46,12 @@ export const Banner = () => {
         <Row className='align-items-center'>
           <Col xs={12} md={6} xl={7}>
             <span className='tagline'>Welcome to my Portfolio</span>
-            <h1>{`Hi I'm `}<span className='wrap'>{text}</span></h1>
+            {/* <h1>{`Hi I'm `}<span className='wrap'>{text}</span></h1> */}
+            <h1>Hi I'm Aditya Lohar</h1>
             {/* <p>An aspiring developer and current undergrad at IIT Roorkee, I am on a path of continuous learning and growth. Eager to transform ideas into reality, I find joy in coding and refining my problem-solving skills.</p> */}
-            <p>I'm an undergrad at IIT Roorkee with a growing interest in <b>blockchain</b> and <b>Web3</b> technologies. I am on a path of continuous learning and growth. Eager to transform ideas into reality, I find joy in coding and refining my problem-solving skills.</p>
-            <button onClick={() => console.log("connect")}> <a href="https://www.linkedin.com/in/aditya-lohar-4b80871b8" target="_blank" style={{textDecoration: "none"}}> Let's connect <ArrowRightCircle size={25}/></a></button>
+            {/* <p>I'm an undergrad at IIT Roorkee with a growing interest in <b>blockchain</b> and <b>Web3</b> technologies. I am on a path of continuous learning and growth. Eager to transform ideas into reality, I find joy in coding and refining my problem-solving skills.</p> */}
+            <p>Passionate about software development and fascinated by <b>blockchain</b> and <b>Web3</b> technologies. Skilled in <b>frontend and backend development </b>, specializing in creating user-friendly web applications. Eager to learn, grow, and contribute to impactful projects.</p>
+            <button onClick={() => console.log("connect")}> <a href="https://www.linkedin.com/in/aditya-lohar-4b80871b8" target="_blank" style={{ textDecoration: "none" }}> Let's connect <ArrowRightCircle size={25} /></a></button>
           </Col>
           <Col xs={12} md={6} xl={5}>
             <img src={headerImg} alt="Header Img" />

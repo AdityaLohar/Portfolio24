@@ -29,7 +29,7 @@ export const Skills = () => {
                 </li>
                 <li>
                   <h5>Blockchain Technologies</h5>
-                  <p>Blockchain Fundamentals <br /> Smart Contract Development (Solidity) <br />Blockchain Interaction (Ether.js) <br /> Smart Contract Testing & Deployment (Hardhat)</p>
+                  <p>Blockchain Fundamentals, <br /> Smart Contract Development (Solidity), <br />Blockchain Interaction (Ether.js), <br /> Smart Contract Testing & Deployment (Hardhat)</p>
                 </li>
               </ul>
             </div>
