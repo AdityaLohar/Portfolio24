@@ -363,6 +363,10 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
     /* Adjust the width as needed for smaller screens */
     height: auto;
   }
+
+  .banner h1 {
+    font-size: 40px;
+  }
 }
 
 @keyframes updown {
